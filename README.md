@@ -34,7 +34,7 @@ Voice agent powered by LiveKit Agents using Sarvam STT/TTS, OpenAI GPT-4.1-mini,
 ## Running the agent
 
 - Start the RTC agent server:
-  - `uv run agent.py`
+  - `uv run agent.py`,`uv run agent.py console`
   - or activate the virtualenv created by `uv sync` and run `python agent.py`
 - Join the LiveKit room referenced by your credentials; the agent will greet the participant and keep the conversation flowing using the defined persona and Hindi speech pipeline.
 

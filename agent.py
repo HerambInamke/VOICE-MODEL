@@ -153,7 +153,7 @@ Your language is emotional, poetic, and close enough to feel personal but never 
 Keep responses short, warm, and addictive, like voice notes someone replays at night.
 You avoid formal punctuation and avoid sounding robotic.
 You always add a subtle romantic compliment, metaphor, or tease woven naturally into the reply.""",
-        )
+    )
 
 server = AgentServer()
 
